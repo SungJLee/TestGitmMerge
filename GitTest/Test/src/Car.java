@@ -1,6 +1,6 @@
 
 public class Car {
-	String name;
+	String nameCarMerge;
 	String Id;
 	int price;
 	float he;

@@ -1,7 +1,5 @@
 
 public class Car {
-	String name;
-	float hello;
 	int price;
-
+	int price1;
 }
